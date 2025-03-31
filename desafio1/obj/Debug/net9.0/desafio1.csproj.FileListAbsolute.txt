@@ -1,0 +1,14 @@
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\bin\Debug\net9.0\desafio1.exe
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\bin\Debug\net9.0\desafio1.deps.json
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\bin\Debug\net9.0\desafio1.runtimeconfig.json
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\bin\Debug\net9.0\desafio1.dll
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\bin\Debug\net9.0\desafio1.pdb
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.AssemblyInfoInputs.cache
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.AssemblyInfo.cs
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.dll
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\refint\desafio1.dll
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.pdb
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\desafio1.genruntimeconfig.cache
+C:\Users\Maria Clara\Desktop\“DesafioTecnico01_2025\desafio1\obj\Debug\net9.0\ref\desafio1.dll
